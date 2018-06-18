@@ -1,0 +1,17 @@
+{
+    "name": "sapid_admin",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Avinash",
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.16.3",
+        "mysql": "^2.15.0"
+    }
+}
